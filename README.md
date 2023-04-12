@@ -1,4 +1,4 @@
-# Aplicação em Python para realização de sorteios de "equipes"
+# Group Generator
 
 ## Execução
 Para executar o programa, basta salvar o arquivo group_generator.py em seu computador e executá-lo através do terminal, utilizando o comando python group_generator.py.
